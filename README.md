@@ -1,2 +1,2 @@
-# Die-Oof-Death.lua
+Die-Oof-Death
 Idk
